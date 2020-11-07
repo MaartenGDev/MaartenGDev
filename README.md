@@ -30,7 +30,7 @@
         <td>
             <h3>Web</h3>
             <ul>
-               <li><a href="https://github.com/MaartenGDev/designer-web">Retrospective client</a> (<b>Fully-fledged retrospective tool</b>)
+               <li><a href="https://github.com/MaartenGDev/retrospective-client">Retrospective client</a> (<b>Fully-fledged retrospective tool</b>)
                  <ul>
                   <li>.NET Core</li>
                   <li>Entity Framework</li>
