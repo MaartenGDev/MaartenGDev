@@ -45,15 +45,15 @@
                 <li>Entity Relation Diagrams</li>
                 </ul>
               </li>
-              <li><a href="https://github.com/MaartenGDev/mydashboard">MyDashboard</a> (<b>Dashboard as a service</b>)<ul>
-                <li>React</li>
-                <li>Redux</li>
-                </ul>
-              </li>
               <li><a href="https://github.com/MaartenGDev/ivory-tower">Ivory Tower</a> (<b>Dashboard for Architectural decisions</b>)<ul>
                 <li>.NET</li>
                 <li>Background-workers (Confluence Integration)</li>
                 <li>Razor pages</li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/mydashboard">MyDashboard</a> (<b>Dashboard as a service</b>)<ul>
+                <li>React</li>
+                <li>Redux</li>
                 </ul>
               </li>
             </ul>
