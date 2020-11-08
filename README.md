@@ -40,7 +40,7 @@
                 </ul>
               </li>
               <li><a href="https://github.com/MaartenGDev/designer-web">Designer Web</a> (<b>Database modeling tool</b>)<ul>
-                <li><a href="https://cdm.maartendev.me/">demo</a></li>
+                <li><a href="https://cdm.maartendev.me/" target="_blank">demo</a></li>
                 <li>React</li>
                 <li>Entity Relation Diagrams</li>
                 </ul>
@@ -71,11 +71,11 @@
             <h3>📒 Learning new tools</h3>
             <ul>
               <li><a href="https://github.com/MaartenGDev/learning-rust">Learning rust</a> (<b>Getting to know Rust</b>)<ul>
+                <li><a href="https://mgdev-bucket.s3-eu-west-1.amazonaws.com/maartendev_app_project_rust.mp4" target="_blank">Demo final product</a></li>
                 <li>Learning guide/summaries</li>
                 <li>Mini kubernetes</li>
                 <li>Tokio for async</li>
                 <li>Redis</li>
-                <li><a href="https://mgdev-bucket.s3-eu-west-1.amazonaws.com/maartendev_app_project_rust.mp4">Demo final product</a></li>
                 </ul>
               </li>
               <li><a href="https://github.com/MaartenGDev/launch-control">Learning Elasticsearch</a> (<b>Tripsearch app using Elasticsearch</b>)<ul>
