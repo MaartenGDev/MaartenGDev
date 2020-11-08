@@ -1,3 +1,5 @@
+### ✨ Latest Projects
+
 <table>
     <tr>
         <td>
@@ -57,3 +59,73 @@
         </td>
     </tr>
 </table>
+
+### 🧠 Learning & App Development
+
+<table>
+    <tr>
+        <td>
+            <h3>📒 Learning new tools</h3>
+            <ul>
+              <li><a href="https://github.com/MaartenGDev/learning-rust">Learning rust</a> (<b>Getting to know Rust</b>)<ul>
+                <li>Learning guide/summaries</li>
+                <li>Mini kubernetes</li>
+                <li>Tokio for async</li>
+                <li>Redis</li>
+                <li><a href="https://mgdev-bucket.s3-eu-west-1.amazonaws.com/maartendev_app_project_rust.mp4">Demo final product</a></li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/launch-control">Learning Elasticsearch</a> (<b>Tripsearch app using Elasticsearch</b>)<ul>
+                <li>Elasticsearch</li>
+                <li>Result ranking</li>
+                <li>OpenData Amsterdam</li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/face-recognition-trainer">Learning Basic ML</a> (<b>Project for training face recognition model</b>)                   <ul>
+                <li>Python</li>
+                <li>Cv2</li>
+                <li>Tkinter</li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/carcassonne-training">Learning Python</a> (<b>Automatically playing the Carcassonne game</b>)<ul>
+                <li>Python</li>
+                <li>Terrain generation</li>
+                <li>Evolution game</li>
+                </ul>
+              </li>
+            </ul>
+        </td>
+        <td>
+            <h3>📱 App Development / Open-source</h3>
+            <ul>
+              <li><a href="https://github.com/MaartenGDev/training-plan">Training-plan</a> (<b>Workouts app</b>)<ul>
+                <li>React Native</li>
+                <li>.NET API</li>
+                <li>GraphQL</li>
+                <li>Icons & Assets</li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/launch-control">Launch Control</a> (<b>React Native driving assistant</b>)<ul>
+                <li>React Native</li>
+                <li>Overpass-api</li>
+                <li>OpenStreetMap</li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/html-parser">Html-parser</a> (<b>HTML-to-JSON & JSON-to-HTML</b>)<ul>
+                <li><a href="https://parser.maartendev.me/">Demo</a>
+                <li>NPM Package</li>
+                <li>100% test-coverage</li>
+                <li>ES6 + Flow types</li>
+                </ul>
+              </li>
+              <li><a href="https://github.com/MaartenGDev/simple-media-manager">Simple Media Manager</a> (<b>Image picker library</b>)<ul>
+                <li>API Docs</li>
+                <li>NPM Package</li>
+                <li>Plain Javascript</li>
+                </ul>
+              </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
