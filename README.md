@@ -39,7 +39,8 @@
                   <li>React</li>
                 </ul>
               </li>
-              <li><a href="https://github.com/MaartenGDev/designer-web">Designer Web</a> (<a href="https://cdm.maartendev.me/">demo</a>) ✨ <b>Model databases in your browser</b><ul>
+              <li><a href="https://github.com/MaartenGDev/designer-web">Designer Web</a> (<b>Database modeling tool</b>)<ul>
+                <li><a href="https://cdm.maartendev.me/">demo</a></li>
                 <li>React</li>
                 <li>Entity Relation Diagrams</li>
                 </ul>
