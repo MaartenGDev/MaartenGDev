@@ -61,6 +61,8 @@
     </tr>
 </table>
 
+<br />
+
 ### 🧠 Learning & App Development
 
 <table>
