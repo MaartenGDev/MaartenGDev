@@ -40,7 +40,7 @@
                 </ul>
               </li>
               <li><a href="https://github.com/MaartenGDev/designer-web">Designer Web</a> (<b>Database modeling tool</b>)<ul>
-                <li><a href="https://cdm.maartendev.me/" target="_blank">demo</a></li>
+                <li><a href="https://maartengdev.github.io/designer-web/" target="_blank">Demo</a></li>
                 <li>React</li>
                 <li>Entity Relation Diagrams</li>
                 </ul>
@@ -71,7 +71,6 @@
             <h3>📒 Learning new tools</h3>
             <ul>
               <li><a href="https://github.com/MaartenGDev/learning-rust">Learning rust</a> (<b>Getting to know Rust</b>)<ul>
-                <li><a href="https://mgdev-bucket.s3-eu-west-1.amazonaws.com/maartendev_app_project_rust.mp4" target="_blank">Demo final product</a></li>
                 <li>Learning guide/summaries</li>
                 <li>Mini kubernetes</li>
                 <li>Tokio for async</li>
@@ -115,7 +114,7 @@
                 </ul>
               </li>
               <li><a href="https://github.com/MaartenGDev/html-parser">Html-parser</a> (<b>HTML-to-JSON & JSON-to-HTML</b>)<ul>
-                <li><a href="https://parser.maartendev.me/">Demo</a>
+                <li><a href="https://maartengdev.github.io/html-parser/">Demo</a>
                 <li>NPM Package</li>
                 <li>100% test-coverage</li>
                 <li>ES6 + Flow types</li>
