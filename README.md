@@ -77,7 +77,7 @@
                 <li>Redis</li>
                 </ul>
               </li>
-              <li><a href="https://github.com/MaartenGDev/launch-control">Learning Elasticsearch</a> (<b>Tripsearch app using Elasticsearch</b>)<ul>
+              <li><a href="https://github.com/MaartenGDev/TripSearch-Client">Learning Elasticsearch</a> (<b>Tripsearch app using Elasticsearch</b>)<ul>
                 <li>Elasticsearch</li>
                 <li>Result ranking</li>
                 <li>OpenData Amsterdam</li>
