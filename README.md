@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-        <td>
+        <td valign="top">
             <h3>Algorithms</h3>
             <ul>
               <li><a href="https://github.com/MaartenGDev/multi-threading">Multi-threading experiments</a> (<b>Working with multi-threading concepts in .NET</b>)<ul>
@@ -29,7 +29,7 @@
               </li>
             </ul>
         </td>
-        <td>
+        <td valign="top">
             <h3>Web</h3>
             <ul>
                <li><a href="https://github.com/MaartenGDev/retrospective-client">Retrospective client</a> (<b>Fully-fledged retrospective tool</b>)
@@ -73,7 +73,7 @@
 
 <table>
     <tr>
-        <td>
+        <td valign="top">
             <h3>📒 Learning new tools</h3>
             <ul>
               <li><a href="https://github.com/MaartenGDev/learning-rust">Learning rust</a> (<b>Getting to know Rust</b>)<ul>
@@ -103,7 +103,7 @@
               </li>
             </ul>
         </td>
-        <td>
+        <td valign="top">
             <h3>📱 App Development / Open-source</h3>
             <ul>
               <li><a href="https://github.com/MaartenGDev/training-plan">Training-plan</a> (<b>Workouts app</b>)<ul>
