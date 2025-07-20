@@ -56,6 +56,12 @@
                 <li>Redux</li>
                 </ul>
               </li>
+              <li><a href="https://github.com/MaartenGDev/cashflow">CashFlow</a> (<b>Expense & income tracking</b>)<ul>
+                  <li>Angular</li>
+                  <li>Chart.js</li>
+                  <li>Tailwind</li>
+                </ul>
+              </li>
             </ul>
         </td>
     </tr>
